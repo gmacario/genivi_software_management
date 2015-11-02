@@ -235,5 +235,5 @@ install
 The installation report will be displayed both by SC and HMI.
 
 
-# DBUS BUS NAMES AND OBJETCS
+# D-BUS BUS NAMES AND OBJECTS
 TBD
